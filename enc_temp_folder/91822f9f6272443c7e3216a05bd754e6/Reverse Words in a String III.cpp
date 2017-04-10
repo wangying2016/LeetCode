@@ -2,7 +2,6 @@
 #include <string>
 #include <stdlib.h>
 
-// 我的方法
 //class Solution {
 //public:
 //	std::string reverseWords(std::string s) {
@@ -24,7 +23,6 @@
 //	}
 //};
 
-// 网友的方法
 class Solution {
 public:
 	std::string reverseWords(std::string s) {
