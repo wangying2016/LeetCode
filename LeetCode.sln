@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "463. Island Perimeter", "46
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "292. Nim Game", "292. Nim Game\292. Nim Game.vcxproj", "{29F9BFAB-19CA-4D93-94F5-4CD463AA0AE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "485. Max Consecutive Ones", "485. Max Consecutive Ones\485. Max Consecutive Ones.vcxproj", "{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{29F9BFAB-19CA-4D93-94F5-4CD463AA0AE6}.Release|x64.Build.0 = Release|x64
 		{29F9BFAB-19CA-4D93-94F5-4CD463AA0AE6}.Release|x86.ActiveCfg = Release|Win32
 		{29F9BFAB-19CA-4D93-94F5-4CD463AA0AE6}.Release|x86.Build.0 = Release|Win32
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Debug|x64.ActiveCfg = Debug|x64
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Debug|x64.Build.0 = Debug|x64
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Debug|x86.Build.0 = Debug|Win32
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Release|x64.ActiveCfg = Release|x64
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Release|x64.Build.0 = Release|x64
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Release|x86.ActiveCfg = Release|Win32
+		{E326FCA6-5D99-4D0A-A6BA-D342323EB30B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
