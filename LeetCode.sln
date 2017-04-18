@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "485. Max Consecutive Ones",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "136. Single Number", "136. Single Number\136. Single Number.vcxproj", "{AD9ED41C-4BD4-4C7E-98C6-4A1A358FADEC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.vcxproj", "{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{AD9ED41C-4BD4-4C7E-98C6-4A1A358FADEC}.Release|x64.Build.0 = Release|x64
 		{AD9ED41C-4BD4-4C7E-98C6-4A1A358FADEC}.Release|x86.ActiveCfg = Release|Win32
 		{AD9ED41C-4BD4-4C7E-98C6-4A1A358FADEC}.Release|x86.Build.0 = Release|Win32
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Debug|x64.ActiveCfg = Debug|x64
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Debug|x64.Build.0 = Debug|x64
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Debug|x86.ActiveCfg = Debug|Win32
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Debug|x86.Build.0 = Debug|Win32
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x64.ActiveCfg = Release|x64
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x64.Build.0 = Release|x64
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x86.ActiveCfg = Release|Win32
+		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
