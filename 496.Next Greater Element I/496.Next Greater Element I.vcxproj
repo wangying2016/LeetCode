@@ -23,6 +23,7 @@
     <ProjectGuid>{6C9A587A-37D8-4ADA-80D0-B4770B45045F}</ProjectGuid>
     <RootNamespace>My496NextGreaterElementI</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <ProjectName>496. Next Greater Element I</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

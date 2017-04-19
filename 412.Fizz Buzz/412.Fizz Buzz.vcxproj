@@ -23,6 +23,7 @@
     <ProjectGuid>{74D622F6-BDE9-4DF9-ACF6-A7888BC9E487}</ProjectGuid>
     <RootNamespace>My412FizzBuzz</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <ProjectName>412. Fizz Buzz</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

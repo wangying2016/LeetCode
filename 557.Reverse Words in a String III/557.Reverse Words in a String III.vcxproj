@@ -23,6 +23,7 @@
     <ProjectGuid>{A06B7BB5-F50F-4427-9EA0-D76E76257611}</ProjectGuid>
     <RootNamespace>My557ReverseWordsinaStringIII</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <ProjectName>557. Reverse Words in a String III</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

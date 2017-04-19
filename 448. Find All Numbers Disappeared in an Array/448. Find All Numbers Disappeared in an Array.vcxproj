@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{54D46B69-AF0A-489F-8FDE-2585315E387B}</ProjectGuid>
-    <RootNamespace>My500KeyboardRow</RootNamespace>
+    <ProjectGuid>{65281CBA-725A-4302-8F7F-069C5F2873D7}</ProjectGuid>
+    <RootNamespace>My448FindAllNumbersDisappearedinanArray</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
-    <ProjectName>500. Keyboard Row</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -112,7 +111,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Keyboard Row.cpp" />
+    <ClCompile Include="Find All Numbers Disappeared in an Array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

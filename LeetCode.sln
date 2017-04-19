@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "461.Hamming Distance", "461.Hamming Distance\461.Hamming Distance.vcxproj", "{9BDFF06B-8DF6-444D-9E39-88B7C68576A2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "461. Hamming Distance", "461.Hamming Distance\461.Hamming Distance.vcxproj", "{9BDFF06B-8DF6-444D-9E39-88B7C68576A2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "557.Reverse Words in a String III", "557.Reverse Words in a String III\557.Reverse Words in a String III.vcxproj", "{A06B7BB5-F50F-4427-9EA0-D76E76257611}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "557. Reverse Words in a String III", "557.Reverse Words in a String III\557.Reverse Words in a String III.vcxproj", "{A06B7BB5-F50F-4427-9EA0-D76E76257611}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "476.Number Complement", "476.Number Complement\476.Number Complement.vcxproj", "{B5FC7563-E6D9-4BB8-8BC5-7C89EFB68725}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "476. Number Complement", "476.Number Complement\476.Number Complement.vcxproj", "{B5FC7563-E6D9-4BB8-8BC5-7C89EFB68725}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "500.Keyboard Row", "500.Keyboard Row\500.Keyboard Row.vcxproj", "{54D46B69-AF0A-489F-8FDE-2585315E387B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "500. Keyboard Row", "500.Keyboard Row\500.Keyboard Row.vcxproj", "{54D46B69-AF0A-489F-8FDE-2585315E387B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "412.Fizz Buzz", "412.Fizz Buzz\412.Fizz Buzz.vcxproj", "{74D622F6-BDE9-4DF9-ACF6-A7888BC9E487}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "412. Fizz Buzz", "412.Fizz Buzz\412.Fizz Buzz.vcxproj", "{74D622F6-BDE9-4DF9-ACF6-A7888BC9E487}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "344.Reverse String", "344.Reverse String\344.Reverse String.vcxproj", "{1CAC550A-0DB6-4945-9AAD-1F5F51B66FBE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "344. Reverse String", "344.Reverse String\344.Reverse String.vcxproj", "{1CAC550A-0DB6-4945-9AAD-1F5F51B66FBE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "496.Next Greater Element I", "496.Next Greater Element I\496.Next Greater Element I.vcxproj", "{6C9A587A-37D8-4ADA-80D0-B4770B45045F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "496. Next Greater Element I", "496.Next Greater Element I\496.Next Greater Element I.vcxproj", "{6C9A587A-37D8-4ADA-80D0-B4770B45045F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "463. Island Perimeter", "463. Island Perimeter\463. Island Perimeter.vcxproj", "{69AA2437-2229-405A-9826-D96E78A1F4A5}"
 EndProject
@@ -26,6 +26,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "136. Single Number", "136. Single Number\136. Single Number.vcxproj", "{AD9ED41C-4BD4-4C7E-98C6-4A1A358FADEC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.vcxproj", "{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.vcxproj", "{65281CBA-725A-4302-8F7F-069C5F2873D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,14 @@ Global
 		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x64.Build.0 = Release|x64
 		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x86.ActiveCfg = Release|Win32
 		{37ADADF2-9DB5-42A8-B814-1E0AAB8EB784}.Release|x86.Build.0 = Release|Win32
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Debug|x64.ActiveCfg = Debug|x64
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Debug|x64.Build.0 = Debug|x64
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Debug|x86.Build.0 = Debug|Win32
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x64.ActiveCfg = Release|x64
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x64.Build.0 = Release|x64
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x86.ActiveCfg = Release|Win32
+		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
