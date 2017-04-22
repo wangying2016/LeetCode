@@ -44,7 +44,7 @@ public:
 	}
 };
 
-// use array attribute , runtime = 762 ms
+// no use array attribute , runtime = 762 ms
 class Solution3 {
 public:
 	vector<int> findDisappearedNumbers(vector<int>& nums) {
@@ -87,17 +87,6 @@ public:
 				result.push_back(it - nums.begin() + 1);
 			}
 		}
-		/*for (auto it = nums.begin(); it != nums.end(); ++it) {
-		if (*it <= nums.size()) {
-		*it = it - nums.begin() + 1;
-		}
-		}
-		for (auto it = nums.begin(); it != nums.end(); ++it) {
-		if (*it > nums.capacity()) {
-		it = nums.erase(it);
-		--it;
-		}
-		}*/
 		return result;
 	}
 };
