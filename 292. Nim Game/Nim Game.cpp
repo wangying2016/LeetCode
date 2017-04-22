@@ -1,5 +1,12 @@
+#include <iostream>
+#include <cstdlib>
+
+using std::cout;
+using std::endl;
+using std::cin;
+
 // my solution
-class Solution {
+class Solution1 {
 public:
 	bool canWinNim(int n) {
 		if (n % 4 == 0) return false;
@@ -8,9 +15,19 @@ public:
 };
 
 // other's solution
-//class Solution {
-//public:
-//	bool canWinNim(int n) {
-//		return n % 4;
-//	}
-//};
+class Solution2 {
+public:
+	bool canWinNim(int n) {
+		return n % 4;
+	}
+};
+
+int main()
+{
+	Solution1 solution;
+	int n = 0;
+	cin >> n;
+	cout << solution.canWinNim(n) << endl;
+	system("pause");
+	return 0;
+}
