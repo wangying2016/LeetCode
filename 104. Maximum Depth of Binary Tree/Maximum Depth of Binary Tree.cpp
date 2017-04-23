@@ -4,6 +4,7 @@
 #include <cstdlib>
 #include <string>
 #include <algorithm>
+#include <queue>
 
 using std::cout;
 using std::endl;
@@ -12,6 +13,8 @@ using std::vector;
 using std::string;
 using std::max_element;
 using std::stoi;
+using std::max;
+using std::queue;
 
 // Definition for a binary tree node.
 struct TreeNode {
@@ -182,6 +185,43 @@ public:
 private:
 	int max;
 	stack<int> farthest_path;
+};
+
+// perfect solution , runtime = 9 ms
+class Solution5 {
+public:
+	int maxDepth(TreeNode *root) {
+		return root == NULL ? 0 : max(maxDepth(root->left), maxDepth(root->right)) + 1;
+	}
+};
+
+class Solution6 {
+public:
+	int maxDepth(TreeNode *root)
+	{
+		if (root == NULL)
+			return 0;
+
+		int res = 0;
+		queue<TreeNode *> q;
+		q.push(root);
+		while (!q.empty())
+		{
+			++res;
+			for (int i = 0, n = q.size(); i < n; ++i)
+			{
+				TreeNode *p = q.front();
+				q.pop();
+
+				if (p->left != NULL)
+					q.push(p->left);
+				if (p->right != NULL)
+					q.push(p->right);
+			}
+		}
+
+		return res;
+	}
 };
 
 int main()
