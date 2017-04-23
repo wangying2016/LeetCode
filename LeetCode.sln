@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "520. Detect Capital", "520.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.vcxproj", "{65281CBA-725A-4302-8F7F-069C5F2873D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.vcxproj", "{8D91E535-7631-4E9B-B65D-A7461592F472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x64.Build.0 = Release|x64
 		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x86.ActiveCfg = Release|Win32
 		{65281CBA-725A-4302-8F7F-069C5F2873D7}.Release|x86.Build.0 = Release|Win32
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Debug|x64.ActiveCfg = Debug|x64
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Debug|x64.Build.0 = Debug|x64
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Debug|x86.Build.0 = Debug|Win32
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Release|x64.ActiveCfg = Release|x64
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Release|x64.Build.0 = Release|x64
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Release|x86.ActiveCfg = Release|Win32
+		{8D91E535-7631-4E9B-B65D-A7461592F472}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
