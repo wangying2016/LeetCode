@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104. Maximum Depth of Binar
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.vcxproj", "{47689FA1-2030-4BA8-A9AE-B0EBC16E0C17}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "371. Sum of Two Integers", "371. Sum of Two Integers\371. Sum of Two Integers.vcxproj", "{DA5B6342-4BD5-4983-933B-9307B2A94847}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -161,6 +163,14 @@ Global
 		{47689FA1-2030-4BA8-A9AE-B0EBC16E0C17}.Release|x64.Build.0 = Release|x64
 		{47689FA1-2030-4BA8-A9AE-B0EBC16E0C17}.Release|x86.ActiveCfg = Release|Win32
 		{47689FA1-2030-4BA8-A9AE-B0EBC16E0C17}.Release|x86.Build.0 = Release|Win32
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Debug|x64.ActiveCfg = Debug|x64
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Debug|x64.Build.0 = Debug|x64
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Debug|x86.Build.0 = Debug|Win32
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Release|x64.ActiveCfg = Release|x64
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Release|x64.Build.0 = Release|x64
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Release|x86.ActiveCfg = Release|Win32
+		{DA5B6342-4BD5-4983-933B-9307B2A94847}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
