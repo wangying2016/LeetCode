@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.7
+VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "461. Hamming Distance", "461.Hamming Distance\461.Hamming Distance.vcxproj", "{9BDFF06B-8DF6-444D-9E39-88B7C68576A2}"
 EndProject
@@ -40,6 +40,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "226. Invert Binary Tree", "226. Invert Binary Tree\226. Invert Binary Tree.vcxproj", "{ECEDB8D4-A5D3-4093-AF81-7E84039A4C97}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "258. Add Digits", "258. Add Digits\258. Add Digits.vcxproj", "{524B9C3D-F0AD-4D84-81A3-DCCBFF5DB480}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +203,14 @@ Global
 		{524B9C3D-F0AD-4D84-81A3-DCCBFF5DB480}.Release|x64.Build.0 = Release|x64
 		{524B9C3D-F0AD-4D84-81A3-DCCBFF5DB480}.Release|x86.ActiveCfg = Release|Win32
 		{524B9C3D-F0AD-4D84-81A3-DCCBFF5DB480}.Release|x86.Build.0 = Release|Win32
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Debug|x64.ActiveCfg = Debug|x64
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Debug|x64.Build.0 = Debug|x64
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Debug|x86.Build.0 = Debug|Win32
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Release|x64.ActiveCfg = Release|x64
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Release|x64.Build.0 = Release|x64
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Release|x86.ActiveCfg = Release|Win32
+		{DC11ADAF-13FB-4748-AD4C-18B419FBD5AE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
