@@ -100,6 +100,7 @@ private:
 
 int main()
 {
+	Solution4 solution4;
 	system("pause");
 	return 0;
 }
