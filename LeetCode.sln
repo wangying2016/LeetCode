@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Mo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "530. Minimum Absolute Difference in BST", "530. Minimum Absolute Difference in BST\530. Minimum Absolute Difference in BST.vcxproj", "{04B18F1C-3353-4FB7-9385-5583501366AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "455. Assign Cookies", "455. Assign Cookies\455. Assign Cookies.vcxproj", "{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{04B18F1C-3353-4FB7-9385-5583501366AD}.Release|x64.Build.0 = Release|x64
 		{04B18F1C-3353-4FB7-9385-5583501366AD}.Release|x86.ActiveCfg = Release|Win32
 		{04B18F1C-3353-4FB7-9385-5583501366AD}.Release|x86.Build.0 = Release|Win32
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Debug|x64.ActiveCfg = Debug|x64
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Debug|x64.Build.0 = Debug|x64
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Debug|x86.Build.0 = Debug|Win32
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Release|x64.ActiveCfg = Release|x64
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Release|x64.Build.0 = Release|x64
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Release|x86.ActiveCfg = Release|Win32
+		{E833E8BD-CC8A-4A24-A2E7-A863325E9E8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
