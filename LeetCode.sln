@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "500. Relative Ranks", "500.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "453. Minimum Moves to Equal Array Elements", "453. Minimum Moves to Equal Array Elements\453. Minimum Moves to Equal Array Elements.vcxproj", "{F1A6CFA1-56E6-446E-8F96-78D84E3550F3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "349. Intersection of Two Arrays", "349. Intersection of Two Arrays\349. Intersection of Two Arrays.vcxproj", "{01694528-E465-4E76-BE5E-68636D1CA170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{F1A6CFA1-56E6-446E-8F96-78D84E3550F3}.Release|x64.Build.0 = Release|x64
 		{F1A6CFA1-56E6-446E-8F96-78D84E3550F3}.Release|x86.ActiveCfg = Release|Win32
 		{F1A6CFA1-56E6-446E-8F96-78D84E3550F3}.Release|x86.Build.0 = Release|Win32
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Debug|x64.ActiveCfg = Debug|x64
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Debug|x64.Build.0 = Debug|x64
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Debug|x86.ActiveCfg = Debug|Win32
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Debug|x86.Build.0 = Debug|Win32
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Release|x64.ActiveCfg = Release|x64
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Release|x64.Build.0 = Release|x64
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Release|x86.ActiveCfg = Release|Win32
+		{01694528-E465-4E76-BE5E-68636D1CA170}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
