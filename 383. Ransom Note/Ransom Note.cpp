@@ -57,7 +57,7 @@ int main()
 {
 	string strRansomNote = "aa";
 	string strMagazines = "ab";
-	Solution solution;
+	Solution1 solution;
 	cout << solution.canConstruct(strRansomNote, strMagazines) << endl;
 	system("pause");
 	return 0;
