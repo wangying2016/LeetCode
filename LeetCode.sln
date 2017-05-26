@@ -57,6 +57,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "383. Ransom Note", "383. Ra
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "404. Sum of Left Leaves", "404. Sum of Left Leaves\404. Sum of Left Leaves.vcxproj", "{AC65692A-E41E-438E-B1C1-C772D2B245F2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "122.  Best Time to Buy and Sell Stock II", "122.  Best Time to Buy and Sell Stock II\122.  Best Time to Buy and Sell Stock II.vcxproj", "{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -281,6 +283,14 @@ Global
 		{AC65692A-E41E-438E-B1C1-C772D2B245F2}.Release|x64.Build.0 = Release|x64
 		{AC65692A-E41E-438E-B1C1-C772D2B245F2}.Release|x86.ActiveCfg = Release|Win32
 		{AC65692A-E41E-438E-B1C1-C772D2B245F2}.Release|x86.Build.0 = Release|Win32
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Debug|x64.ActiveCfg = Debug|x64
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Debug|x64.Build.0 = Debug|x64
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Debug|x86.Build.0 = Debug|Win32
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Release|x64.ActiveCfg = Release|x64
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Release|x64.Build.0 = Release|x64
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Release|x86.ActiveCfg = Release|Win32
+		{0FDAE685-4F00-43FE-BBD8-6557A5238EA5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
