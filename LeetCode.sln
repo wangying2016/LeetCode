@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "122.  Best Time to Buy and 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.vcxproj", "{7FF3D859-B95D-4053-BD78-424E392F1973}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "387. First Unique Character in a String", "387. First Unique Character in a String\387. First Unique Character in a String.vcxproj", "{930DDA55-4071-46E2-BD28-1E4C2022D95D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{7FF3D859-B95D-4053-BD78-424E392F1973}.Release|x64.Build.0 = Release|x64
 		{7FF3D859-B95D-4053-BD78-424E392F1973}.Release|x86.ActiveCfg = Release|Win32
 		{7FF3D859-B95D-4053-BD78-424E392F1973}.Release|x86.Build.0 = Release|Win32
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Debug|x64.ActiveCfg = Debug|x64
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Debug|x64.Build.0 = Debug|x64
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Debug|x86.ActiveCfg = Debug|Win32
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Debug|x86.Build.0 = Debug|Win32
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Release|x64.ActiveCfg = Release|x64
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Release|x64.Build.0 = Release|x64
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Release|x86.ActiveCfg = Release|Win32
+		{930DDA55-4071-46E2-BD28-1E4C2022D95D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
