@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13. Roman to Integer", "13.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "504. Base 7", "504. Base 7\504. Base 7.vcxproj", "{A640728A-67F1-45B6-8ED0-DED81497CBB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.vcxproj", "{90229518-BDA7-4446-8750-C2E28EDC6D84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -391,6 +393,14 @@ Global
 		{A640728A-67F1-45B6-8ED0-DED81497CBB7}.Release|x64.Build.0 = Release|x64
 		{A640728A-67F1-45B6-8ED0-DED81497CBB7}.Release|x86.ActiveCfg = Release|Win32
 		{A640728A-67F1-45B6-8ED0-DED81497CBB7}.Release|x86.Build.0 = Release|Win32
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Debug|x64.ActiveCfg = Debug|x64
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Debug|x64.Build.0 = Debug|x64
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Debug|x86.ActiveCfg = Debug|Win32
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Debug|x86.Build.0 = Debug|Win32
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Release|x64.ActiveCfg = Release|x64
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Release|x64.Build.0 = Release|x64
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Release|x86.ActiveCfg = Release|Win32
+		{90229518-BDA7-4446-8750-C2E28EDC6D84}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
