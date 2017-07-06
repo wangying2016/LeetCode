@@ -2,11 +2,14 @@
 #include <cstdlib>
 #include <string>
 #include <stack>
+#include <regex>
 
 using std::cout;
 using std::endl;
 using std::string;
 using std::stack;
+using std::regex;
+using std::regex_search;
 
 // my first soluton , runtime = 6 ms 
 class Solution1 {
@@ -61,6 +64,14 @@ public:
 			if (a > 1 || l > 2) return false;
 		}
 		return true;
+	}
+};
+
+// perfect solution 4 , runtime = 6 ms
+class Solution {
+public:
+	bool checkRecord(string s) {
+		return !regex_search(s, regex("A.*A|LLL"));
 	}
 };
 
