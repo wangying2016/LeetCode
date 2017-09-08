@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "461. Hamming Distance", "461.Hamming Distance\461.Hamming Distance.vcxproj", "{9BDFF06B-8DF6-444D-9E39-88B7C68576A2}"
 EndProject
@@ -94,6 +94,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "551. Student Attendance Record I", "551. Student Attendance Record I\551. Student Attendance Record I.vcxproj", "{1EEC3DDF-1F10-468F-A938-FEE07FF24B3A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "543. Diameter of Binary Tree", "543. Diameter of Binary Tree\543. Diameter of Binary Tree.vcxproj", "{06A69210-5D53-4055-9EB0-4F199D6C749B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "108. Convert Sorted Array to Binary Search Tree", "108. Convert Sorted Array to Binary Search Tree\108. Convert Sorted Array to Binary Search Tree.vcxproj", "{06BCD367-3205-4709-A128-B9FD4CD19A7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -471,8 +473,19 @@ Global
 		{06A69210-5D53-4055-9EB0-4F199D6C749B}.Release|x64.Build.0 = Release|x64
 		{06A69210-5D53-4055-9EB0-4F199D6C749B}.Release|x86.ActiveCfg = Release|Win32
 		{06A69210-5D53-4055-9EB0-4F199D6C749B}.Release|x86.Build.0 = Release|Win32
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Debug|x64.ActiveCfg = Debug|x64
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Debug|x64.Build.0 = Debug|x64
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Debug|x86.Build.0 = Debug|Win32
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Release|x64.ActiveCfg = Release|x64
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Release|x64.Build.0 = Release|x64
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Release|x86.ActiveCfg = Release|Win32
+		{06BCD367-3205-4709-A128-B9FD4CD19A7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9308C69F-AF21-4B26-A1F4-5A011984F476}
 	EndGlobalSection
 EndGlobal
